@@ -21,20 +21,19 @@
 	
 }
 
+
 .site-nav{
-	float: right;
-	left: -50%;
-	position: relative;
+	width: 100%;
+	margin:0 auto;
 
 }
 
 .site-nav ul {
-	float: left;
-	left: 50%;
-	position: relative;
-	padding: 0;
 	margin-top: 56px;
-
+	width: 400px;
+	padding: 0;
+	margin-left:auto;
+	margin-right: auto;
 }
 
 .site-nav li{
@@ -49,7 +48,7 @@
 	width: 200px;
 	margin: auto;
 	margin-bottom: 24px;
-	margin-top: 32px;
+	margin-top: 50px;
 
 }
 
